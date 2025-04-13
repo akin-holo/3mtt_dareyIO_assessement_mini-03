@@ -9,7 +9,7 @@
 </head>
 <body>
    <div class="calculator">
-      <div class="screen"></div>
+      <div class="screen" id="screen"></div>
       <div class="inputs-container">
          <div class="row row1">
             <button class="fn ac" id="clearAll">AC</button>
@@ -21,27 +21,27 @@
             <button class="num">7</button>
             <button class="num">8</button>
             <button class="num">9</button>
-            <button class="symbol">x</button>
+            <button class="symbol" id="multiply">x</button>
          </div>
          <div class="row row3">
             <button class="num">4</button>
             <button class="num">5</button>
             <button class="num">6</button>
-            <button class="symbol">-</button>
+            <button class="symbol" id="subtract">-</button>
          </div>
          <div class="row row4">
             <button class="num">1</button>
             <button class="num">2</button>
             <button class="num">3</button>
-            <button class="symbol">+</button>
+            <button class="symbol" id="add">+</button>
          </div>
          <div class="row row5">
             <button ><span>.</span></button>
             <button class="num">0</button>
-            <button class="equal">=</button>
+            <button class="equal" id="equal">=</button>
          </div>
       </div>
-      </div>
+   </div>
    <script src="script.js"></script>
 </body>
 </html>
