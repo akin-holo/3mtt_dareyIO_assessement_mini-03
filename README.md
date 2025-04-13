@@ -6,6 +6,7 @@ This is a solution to the _#3 Mini Project Assesment_.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,7 +30,9 @@ This is a solution to the _#3 Mini Project Assesment_.
  - Handle the clear button to reset the calculator.
 
 
+### Screenshot
 
+![](./asset/Preview-CalculatorApp_3MTT%20Darey.io.png)
 
 ### Links
 
